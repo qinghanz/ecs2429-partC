@@ -17,6 +17,8 @@ import java.util.Random;
 
 public class AppTests {
 
+    //Authors: Neel Faucher, Qing Han Zhang, Eric Zhang, Danny Tu
+
     public static int TOTAL_OBJECTS = 3;
 
     public AppTests() {
