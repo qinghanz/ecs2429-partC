@@ -187,7 +187,7 @@ public class AppTests {
 
         // TODOS
 
-        for (int i = 0; i < 15; i++) {
+        for (int i = 0; i < 1000; i++) {
 
             long start_time;
             long end_time;
@@ -478,7 +478,7 @@ public class AppTests {
 
         //PROJECTS of category
 
-        for(int i = 0; i < 15; i++) {
+        for(int i = 0; i < 1000; i++) {
             long start_time;
             long end_time;
 
@@ -546,7 +546,7 @@ public class AppTests {
         }
 
         //create category of todo
-        for(int i = 0; i < 15; i++) {
+        for(int i = 0; i < 1000; i++) {
             long start_time;
             long end_time;
 
@@ -616,7 +616,7 @@ public class AppTests {
 
 
         //create tasks of projects
-        for(int i = 0; i < 15; i++) {
+        for(int i = 0; i < 1000; i++) {
             long start_time;
             long end_time;
 
